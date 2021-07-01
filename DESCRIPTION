@@ -1,14 +1,14 @@
 Package: drkm4mc
 Type: Package
-Title:  Kernel machines with missing covariates
+Title: Kernel machines with missing covariates
 Version: 0.1.0
 Author: Tiantian Liu
 Maintainer: Tiantian Liu <tiantian.liu@campus.technion.ac.il>
 Description: Kernel machines with missing covariates
-License:  MIT + file LICENSE
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 6.1.1
+RoxygenNote: 7.0.0
 Imports: e1071,
     modopt.matlab,
     kernlab,
